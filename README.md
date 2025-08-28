@@ -1,4 +1,4 @@
-# schat
+# Simple Chat
 English:
 Simple Chat on Java.
 Minimal Java for Server: Java 8, for client: Java 9.
